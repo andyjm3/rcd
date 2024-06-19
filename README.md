@@ -1,2 +1,1 @@
-# rcd
-Riemannian coordinate descent algorithms on matrix manifolds
+# Riemannian coordinate descent algorithms on matrix manifolds
